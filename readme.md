@@ -8,7 +8,7 @@ Este projeto foi desenvolvido como parte do processo seletivo da empresa Apisul.
 - Gson (para parsing do arquivo JSON)
 
 ## Sobre o Projeto
-O projeto utiliza Maven para gerenciamento de dependências e build, facilitando a execução e manutenção do código. A escolha do Java 8 foi feita para garantir compatibilidade, mas o código pode ser facilmente adaptado para versões mais recentes do Java.
+O projeto utiliza Maven para gerenciamento de dependências e build, facilitando a execução e manutenção do código. A escolha do Java 8 foi feita apenas por preferência, mas o código pode ser facilmente adaptado para versões mais recentes do Java.
 
 ## Descrição do Exercício
 
